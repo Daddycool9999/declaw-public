@@ -35,9 +35,10 @@ Blocks malicious "Indirect Injections" hidden in websites or documents that try 
 - Apple Silicon (M1/M2/M3) recommended.
 
 **Steps:**
+1.  Get your Free License Key from [website](https://declaw.ai/#pricing)
 1.  **Download** the latest `.dmg` from the [Releases](https://github.com/Itova-Labs/declaw-desktop/releases) page.
 2.  Open the DMG and drag **DeClaw.app** to your **Applications** folder.
-3.  Launch DeClaw from Applications.
+3.  Launch DeClaw from Applications. Activate Declaw by giving your license key.
 4.  Follow the onboarding steps to install the local CA certificate (required for HTTPS inspection).
 
 ---
